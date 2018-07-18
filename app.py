@@ -1,4 +1,4 @@
-import os
+import os #allows you to access env variables
 
 from flask import Flask
 from flask_restful import Api
